@@ -33,9 +33,9 @@ h2{
     font-size: 1.5vw;
 }
 #image {
+    display: block;
     width: 100%;
     max-width: 100%;
-    max-width: initial;
     height: auto;
     margin: auto;
 }
