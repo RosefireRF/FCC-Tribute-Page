@@ -10,12 +10,12 @@ ul{
 li{
     margin-top: 2vh;
     margin-bottom: 2vh;
-    font-size: 2rem;
+    font-size: 1.5vw;
     text-align: left;
 }
 h2{
     margin-top: 7vh;
-    font-size: 2rem;
+    font-size: 1.5vw;
     text-align: center;
 }
 #main{
@@ -23,14 +23,14 @@ h2{
 }
 #tribute-info{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.5vw;
     font-style: bold;
     margin: 0%;
 }
 #img-caption{
     font-style: italic;
     opacity: 70;
-    font-size: 1.5rem;
+    font-size: 1.5vw;
 }
 #image {
     max-width: 100%;
@@ -41,13 +41,14 @@ h2{
 }
 #title {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2.5vw;
     margin: 0%;
     margin-bottom: 1vh;
 }
 #img-div {
     width: 61vw;
     margin: auto;
+    margin-bottom: 10vh;
 }
 #secondpage{
     width: 60vw;
@@ -56,5 +57,5 @@ h2{
 #endnote{
     margin-top: 10vh;
     margin-bottom: 20vh;
-    font-size: 2rem;
+    font-size: 1.5vw;
 }
