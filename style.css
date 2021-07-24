@@ -10,12 +10,12 @@ ul{
 li{
     margin-top: 2vh;
     margin-bottom: 2vh;
-    font-size: 1.5vw;
+    font-size: 1.6vw;
     text-align: left;
 }
 h2{
     margin-top: 7vh;
-    font-size: 1.5vw;
+    font-size: 1.6vw;
     text-align: center;
 }
 #main{
@@ -33,8 +33,8 @@ h2{
     font-size: 1.5vw;
 }
 #image {
-    max-width: 100%;
     width: 100%;
+    max-width: 100%;
     max-width: initial;
     height: auto;
     margin: auto;
@@ -57,5 +57,5 @@ h2{
 #endnote{
     margin-top: 10vh;
     margin-bottom: 20vh;
-    font-size: 1.5vw;
+    font-size: 1.6vw;
 }
